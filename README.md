@@ -15,7 +15,7 @@ Predicting precipitation is crucial for many sectors, including agricultural pla
 - Data was sourced via the Southeast Climate Adaptation Science Center (SECASC) Climate Toolbox  (Climate Projections for the Southeast, n.d.)
 This tool provides access to gridMET, a dataset of daily high-spatial resolution (~4-km, 1/24th degree) surface meteorological data covering the United States.
 
-- Data Sourse: Hegewisch, K.C. and Abatzoglou, J.T.. 'Data Download' web tool. Climate Toolbox (https://climatetoolbox.org/), version 2023-02-20. 
+- Data Source: Hegewisch, K.C. and Abatzoglou, J.T.. 'Data Download' web tool. Climate Toolbox (https://climatetoolbox.org/), version 2023-02-20. 
 
 - The Dataset includes ~335,000 daily weather records from 44 grid locations across South Carolina, Trained using (2000–2023) data, Tested with 2024 data. 
 - Features selected were:
